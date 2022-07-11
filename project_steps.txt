@@ -1,0 +1,13 @@
+### (will use something else to document steps but txt for now)
+
+- Create READ.me 
+
+- Finish High Level 
+
+- Decide what data we will interpret
+
+- Understand High Level Arch
+
+- Set up softwares to be used in the project (MySQL = database management system, Tableau = Visualization, etc.)
+
+- TBA
