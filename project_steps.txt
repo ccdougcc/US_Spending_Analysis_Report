@@ -1,13 +1,13 @@
 ### (will use something else to document steps but txt for now)
 
-- Create READ.me 
+- Create READ.me DONE
 
-- Finish High Level 
+- Finish High Level DONE
 
-- Decide what data we will interpret
+- Decide what data we will interpret WIP
 
-- Understand High Level Arch
+- Understand High Level Arch DONE
 
-- Set up softwares to be used in the project (MySQL = database management system, Tableau = Visualization, etc.)
+- Set up softwares to be used in the project (MySQL = database management system, Tableau = Visualization, etc.) WIP
 
 - TBA
